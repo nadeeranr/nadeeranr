@@ -16,14 +16,15 @@ I am a **Frontend Developer** and **UI/UX Designer** focused on building high-en
 - 📸 **Passion:** I run a photography business specializing in portraits shoots, wildlife.
 
 
----
+### 🛠️ My Digital Toolbox
 
-### 🚀 Tech Stack & Tools
+<div align="center">
 
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,gsap,framer,flutter,dart,figma,ps,vscode,github,git" />
-  </a>
-</p>
+| 💬 <br> **Languages** | 🚀 <br> **Frameworks** | 🗃️ <br> **Tools** |
+| :---: | :---: | :---: |
+| <img src="https://skillicons.dev/icons?i=html,css,js,c" /> | <img src="https://skillicons.dev/icons?i=react,bootstrap" /> | <img src="https://skillicons.dev/icons?i=mysql,figma,git,vscode" /> |
+| **HTML5 • CSS3** <br> **JavaScript • C** | **React** <br> **Bootstrap** | **MySQL • Figma** <br> **Git • VS Code** |
+
+</div>
 
 ---
