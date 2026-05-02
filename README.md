@@ -11,10 +11,10 @@
 ### 💫 About Me
 I am a **Frontend Developer** and **UI/UX Designer** focused on building high-end, interactive digital experiences. I specialize in bridging the gap between aesthetic design and functional code.
 
-- 🔭 **Current Focus:** Building high-end motion portfolios and interactive mobile apps.
-- 🌱 **Deep Diving:** Advanced GSAP animations, Framer Motion, and Flutter state management.
-- 📸 **Passion:** I run a photography business specializing in wildlife, nature, and travel.
-- 💬 **Ask me about:** React, Next.js, UI/UX principles, or Flutter development.
+- 🔭 **Current Focus:** Web Development & bringing ideas to life.
+- 🌱 **Deep Diving:** Advanced GSAP animations, Framer Motion
+- 📸 **Passion:** I run a photography business specializing in portraits shoots, wildlife.
+
 
 ---
 
